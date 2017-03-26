@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="primary">#003f61</color>
+    <color name="primary_dark">#00273b</color>
+    <color name="accent">#74ceff</color>
+    <color name="background_material_dark">#e600344e</color>
+
+    <color name="title_background_alpha">#c8004466</color>
+    <color name="title_background">#004466</color>
+
+    <color name="drawer_background_alpha">#c8004466</color>
+    <color name="drawer_background">#004466</color>
+
+    <color name="toolbar_background">#007dc1</color>
+    <color name="toolbar_background_alpha">#c8007dc1</color>
+
+    <color name="item_background">#007dc1</color>
+    <color name="item_background_alpha">#80005989</color>
+    <color name="item_title_background">#004674</color>
+    <color name="item_title_background_alpha">#f0004674</color>
+
+    <color name="text_normal">#cecece</color>
+
+    <color name="abc_background_cache_hint_selector_material_dark">#cecece</color>
+
+
 </resources>
